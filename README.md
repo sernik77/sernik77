@@ -11,3 +11,7 @@
 <!-- [![Silver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serainox420&show_icons=true&theme=gotham) -->
 
 [![My Stack](https://skillicons.dev/icons?i=linux,arch,bash,js,php,go,github,git,,&theme=dark)](https://skillicons.dev)
+
+---
+
+[![CYBERSZP0NT](https://img.shields.io/badge/CYBERSZP0NT-black?style=for-the-badge&logo=mistralai&logoColor=c41400)](https://github.com/CYBERSZP0NT) 
