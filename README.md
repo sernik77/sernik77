@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=5500&pause=1500&color=00FF00&multiline=true&random=false&width=450&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=400&height=60&pause=3000&backgroundColor=%23000000&backgroundOpacity=0&center=false&border=false&lines=%5B%7B%22text%22%3A%22Hello+World%21%22%2C%22color%22%3A%22%232197b5%22%2C%22fontSize%22%3A48%2C%22typingSpeed%22%3A0.3333333333333333%2C%22deleteSpeed%22%3A0.25%2C%22fontWeight%22%3A%22555%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=5500&pause=1500&color=00FF00&multiline=true&random=false&width=450&lines=Hello+World!)](https://git.io/typing-svg) -->
 
 ### I'm ***`Sernik`*** ~ *Average cybersecurity & machine learning enjoyer*
 **Discord**: `sx66` | **Email**: `eval.atob@gmail.com` 
@@ -14,4 +16,4 @@
 
 ---
 
-[![CYBERSZP0NT](https://img.shields.io/badge/CYBERSZP0NT-black?style=for-the-badge&logo=mistralai&logoColor=c41400)](https://github.com/CYBERSZP0NT) 
+[![CYBERSZP0NT](https://img.shields.io/badge/PostHuman™-black?style=for-the-badge&logo=mistralai&logoColor=2197b5)](https://github.com/CYBERSZP0NT) 
