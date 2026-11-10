@@ -7,6 +7,7 @@
 [![sernik77](https://img.shields.io/badge/sernik77-0b1c38?style=for-the-badge&logo=sahibinden&logoColor=17a36b)](https://github.com/CYBERSZP0NT) 
 [![Szmelc-INC](https://img.shields.io/badge/Szmelc--INC-0b1c38?style=for-the-badge&logo=github&logoColor=6e49b8)](https://github.com/Szmelc-INC) 
 [![CYBERSZP0NT](https://img.shields.io/badge/PostHuman™-0b1c38?style=for-the-badge&logo=mistralai&logoColor=2197b5)](https://github.com/CYBERSZP0NT) 
+[![SZYCHTA](https://img.shields.io/badge/SZYCHTA-0b1c38?style=for-the-badge&logo=github&logoColor=468c5b)](https://github.com/SZYCHTA) 
 [![Szmelc.com](https://img.shields.io/badge/szmelc--com-0b1c38?style=for-the-badge&logo=javascript&logoColor=orange)](https://szmelc.com/) \
 **Discord**: `sx66` | **Email**: `eval.atob@gmail.com` \
 I have ***ADHD FullHD 4k 120 FPS™*** \
